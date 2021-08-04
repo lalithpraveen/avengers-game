@@ -1,4 +1,4 @@
-In this assignment let's build a **Emoji Game** by applying the concepts we have
+In this repository  built a **Avenger Game** by applying the concepts I have
 learned till now.
 
 ### Refer to image below:
